@@ -1,0 +1,33 @@
+body {
+  background-color: #EAF6F6;
+  color: #1C6758;
+  font-family: georgia;
+  font-size: 14px;
+}
+
+h1 {
+  color: #1C6758;
+  font-family: tahoma;
+  font-size: 40px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: georgia;
+  font-size: 20px;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+thead {
+  color: #66BFBF;
+  font-family: georgia;
+  font-size: 20px;
+}
